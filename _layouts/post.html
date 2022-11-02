@@ -1,38 +1,41 @@
 ---
 layout: default
 ---
-<article class="post">
-  {%- if page.image -%}
-    <div class="featuredImage">
-        <img src="{{ '/assets/img/' | append: page.image }}" alt="" />
+
+<main id="main" class="main-content" aria-label="Content">
+  <article class="h-entry">
+    {% include page-image.html %}
+    <div class="page-wrapper">
+      <header class="page-header">
+        {% assign title = page.title | markdownify | strip_html %}
+        {% if page.link %}
+          <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+        {% else %}
+          <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
+        {% endif %}
+      </header>
+
+      <div class="page-sidebar">
+        {% include page-author.html %}
+        {% include page-categories.html %}
+        {% include page-tags.html %}
       </div>
-  {%- endif -%}
-  <header>
-    <h1 class="postTitle">{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
-  </header>
 
-  {{ content }}
+      <div class="page-content">
+        <div class="e-content">
+          {{ content }}
+        </div>
 
-  <!-- POST NAVIGATION -->
-  <footer class="postNav clearfix">
-    {%- if page.previous.url -%} 
-      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
-      {%- if page.previous.image -%} 
-        <img src="{{ '/assets/img/' |  append: page.previous.image }}" alt="">
-      {%- endif -%}
-    </a>
-    {%- endif -%}  
-    {%- if page.next.url -%}  
-      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
-      {%- if page.next.image -%} 
-        <img src="{{ '/assets/img/' | append: page.next.image }}" alt="">
-      {%- endif -%} 
-      </a>
-    {%- endif -%} 
-  </footer>
-</article>
+        {% if page.share %}
+          {% include social-share.html %}
+        {% endif %}
 
-{%- if site.disqus.shortname -%}
-  {%- include disqus_comments.html -%}
-{%- endif -%}
+        {% if site.disqus.shortname %}
+          {% include disqus-comments.html %}
+        {% endif %}
+
+        {% include page-pagination.html %}
+      </div>
+    </div>
+  </article>
+</main>

@@ -26,7 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 mastodon_username: mas.to/@rel
 skin: "/assets/css/skins/default.css"
 locale: en-GB
-logo: "/images/guitarman_400x400.jpg" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/docs/images/guitarman_400x400.jpg" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -101,7 +101,7 @@ defaults:
 # Site Author
 author:
   name: Mark
-  picture: /images/guitarman_400x400.jpg
+  picture: /docs/images/guitarman_400x400.jpg
 
 # Footer Links
 footer_links:

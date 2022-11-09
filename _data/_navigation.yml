@@ -1,0 +1,8 @@
+- title: Posts
+  url: /posts/
+- title: Categories
+  url: /categories/
+- title: Mastodon
+  url: https://mastadonapp.uk/@rel
+- title: Search
+  url: /search/

@@ -101,6 +101,7 @@ defaults:
 # Site Author
 author:
   name: Mark
+  mastodon: mastadonapp.uk/@rel
   picture: /docs/images/guitarman_400x400.jpg
 
 # Footer Links
@@ -108,6 +109,9 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Mastodon
+    url: https://mastodonapp.uk/@rel
+    icon: fab fa-mastodon
 
 #Matodon links
 mastodon:

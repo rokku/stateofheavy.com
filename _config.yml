@@ -111,7 +111,7 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
   - title: Mastodon
-    url: https://mastodonapp.uk/@rel
+    url: https://mastodonapp.uk/@Rel
     rel: me
     icon: fab fa-mastodon
 

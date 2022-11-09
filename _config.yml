@@ -111,6 +111,7 @@ footer_links:
     icon: fas fa-rss-square
   - title: Mastodon
     url: https://mastodonapp.uk/@rel
+    rel: me
     icon: fab fa-mastodon
 
 #Matodon links

@@ -109,6 +109,11 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
+#Matodon links
+mastodon:
+- username: rel
+  instance: mastadonapp.uk
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

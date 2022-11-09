@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "A New Band, A New Setlist"
-date:   2022-11-09 18:40:00 +0000
+date:   2022-11-09 07:40:00 +0000
 categories: music
+last_modified_at: 2022-11-09T07:16:49-05:00
 ---
 
 For the last 5 or so months I've been in a blues rock cover band, which for various reasons - life, mostly - hasn't been rehearsing as much as a band should if its goal is to do gigs at all.

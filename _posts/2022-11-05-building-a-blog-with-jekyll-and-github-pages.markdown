@@ -16,8 +16,6 @@ elements:
 last_modified_at: 2022-11-05T10:16:49-05:00
 ---
 
-# Why Jekyll?
-
 Usually when I've blogged in the past, I've used Wordpress. I'm used to it - I develop (private) Wordpress plugins for a living - and I generally like it, but - weirdly - I find Wordpress to be overkill for personal blogs now, especially ones where you just want to write; you're not worried about SEO, or image galleries, or anything plugins will offer you.
 
 Then hosting is an additional cost, unless you use Wordpress.com but even that has its limitations.

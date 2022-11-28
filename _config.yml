@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: losfer words
+title: State of Heavy
 description: >- # this means to ignore newlines until "baseurl:"
-  Think of something witty and just pretend I put it here to describe myself.
+  Gravitas Musica - For the love of Heavy Music
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.losfer.com" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon: mastodonapp.uk/@rel
+url: "https://www.stateofheavy.com" # the base hostname & protocol for your site, e.g. http://example.com
+mastodon: losfer.uk/@rel
 skin: "/assets/css/skins/default.css"
 locale: en-GB
-logo: "/docs/images/guitarman_400x400.jpg" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/docs/images/soh_logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -102,8 +102,8 @@ defaults:
 # Site Author
 author:
   name: Mark
-  mastodon: mastadonapp.uk/@rel
-  picture: /docs/images/guitarman_400x400.jpg
+  mastodon: losfer.uk/@rel
+  picture: /docs/images/mark.jpg
 
 # Footer Links
 footer_links:
@@ -111,14 +111,14 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
   - title: Mastodon
-    url: https://mastodonapp.uk/@Rel
+    url: https://losfer.uk/@Rel
     rel: me
     icon: fab fa-mastodon
 
 #Matodon links
 mastodon:
 - username: rel
-  instance: mastadonapp.uk
+  instance: losfer.uk
 
 # Exclude from processing.
 # The following items will not be processed, by default.

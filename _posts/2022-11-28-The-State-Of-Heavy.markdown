@@ -3,9 +3,15 @@ layout: post
 title:  "The State of Heavy"
 date:   2022-11-28 05:40:00 +0000
 categories: meta
+image: 
+  path: "/docs/images/danny-howe-crowdshot.jpg"
+  thumbnail: "/docs/images/danny-howe-crowdshot.jpg"
+  caption: "Photo by [Danny Howe](https://unsplash.com/@dannyhowe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/concert-crowd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+tags:
+  - meta-talk
+  - music
+  - blogging
 last_modified_at: 2022-11-28T05:16:49-05:00
-image: "/docs/images/danny-howe-crowdshot.jpg"
-thumbnail: "/docs/images/danny-howe-crowdshot.jpg"
 ---
 
 One of the joys of deciding that you're going to start a music blog again is breaking out of your Spotify Repeat playlist, with the same however-many songs which are just the same ones you've been listening to for the last 12 months, and deciding: right, *now* is the time I'm going to listen to some **new shit**.
@@ -22,4 +28,4 @@ If I enjoy it, it'll be featured here in some way.
 
 Reviews, ruminations, or just news links. I hope to have it all. But at the end of the day, this will be a personal site where I celebrate the Heavy.
 
-Photo by [Danny Howe](https://unsplash.com/@dannyhowe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/concert-crowd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
+

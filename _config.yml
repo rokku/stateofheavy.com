@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.stateofheavy.com" # the base hostname & protocol for your site, e.g. http://example.com
 mastodon: losfer.uk/@rel
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/dark.css"
 locale: en-GB
 logo: "/docs/images/soh_logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
@@ -120,6 +120,10 @@ mastodon:
 - username: rel
   instance: losfer.uk
 
+
+disqus:
+  shortname: state-of-heavy
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

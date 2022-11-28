@@ -16,6 +16,8 @@ last_modified_at: 2022-11-28T05:16:49-05:00
 
 One of the joys of deciding that you're going to start a music blog again is breaking out of your Spotify Repeat playlist, with the same however-many songs which are just the same ones you've been listening to for the last 12 months, and deciding: right, *now* is the time I'm going to listen to some **new shit**.
 
+<!--more-->
+
 20 years ago I ran a music review site + forum called [UltimateMetal.com](https://www.ultimatemetal.com) before selling it on to a friend, after the upkeep became too much. I've missed it ever since. 
 
 I was never one to live on the cutting edge of music, always spending too much time tied to my old favourites from the 70s and 80s, and as someone who was curating reviews of new music from a team of volunteer writers, I felt some level of guilt that I wasn't as hands-on with knowing who the fuck these bands were. 

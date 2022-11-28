@@ -5,7 +5,7 @@ date:   2022-11-28 05:40:00 +0000
 categories: meta
 image: 
   path: "/docs/images/danny-howe-crowdshot.jpg"
-  thumbnail: "/docs/images/danny-howe-crowdshot.jpg"
+  thumbnail: "/docs/images/danny-howe-crowd-th.jpg"
   caption: "Photo by [Danny Howe](https://unsplash.com/@dannyhowe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/concert-crowd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags:
   - meta-talk

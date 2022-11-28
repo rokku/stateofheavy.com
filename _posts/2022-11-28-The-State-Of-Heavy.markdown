@@ -12,6 +12,7 @@ tags:
   - music
   - blogging
 last_modified_at: 2022-11-28T05:16:49-05:00
+excerpt: "One of the joys of deciding that you're going to start a music blog again is breaking out of your Spotify Repeat playlist, with the same however-many songs which are just the same ones you've been listening to for the last 12 months, and deciding: right, *now* is the time I'm going to listen to some **new shit**."
 ---
 
 One of the joys of deciding that you're going to start a music blog again is breaking out of your Spotify Repeat playlist, with the same however-many songs which are just the same ones you've been listening to for the last 12 months, and deciding: right, *now* is the time I'm going to listen to some **new shit**.

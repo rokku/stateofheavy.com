@@ -26,7 +26,7 @@ url: "https://www.stateofheavy.com" # the base hostname & protocol for your site
 mastodon: losfer.uk/@rel
 skin: "/assets/css/skins/dark.css"
 locale: en-GB
-logo: "/docs/images/soh_logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/docs/images/cthulhu.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -104,7 +104,7 @@ defaults:
 author:
   name: Mark
   mastodon: losfer.uk/@rel
-  picture: /docs/images/mark.jpg
+  picture: /docs/images/soh_logo.jpg
 
 # Footer Links
 footer_links:

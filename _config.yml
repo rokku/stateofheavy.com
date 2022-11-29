@@ -1,35 +1,35 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "State Of Heavy"
+title: "State Of Heavy"
+description: "Gravitas Musica"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /jekyll-theme-memoirs
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#google_analytics: 'UA-xxxxxxxx-1'
+#disqus: 'demowebsite'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: email@stateofheavy.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  mark:
+    name: Mark
+    display_name: Mark
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    email: email@stateofheavy.com
+    web: https://www.stateofheavy.com/
+    #twitter: https://twitter.com/wowthemesnet
+    description: "State of Heavy's founder, chief contributor, and old bearded fuck."
+#  john:
+#    name: John
+#    display_name: John
+#    avatar: 'assets/images/avatar.png'
+#    email: wowthemesnet@gmail.com
+#    web: https://www.wowthemes.net
+#    twitter: https://twitter.com/wowthemesnet
+#    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
@@ -39,7 +39,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -47,11 +47,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 highlighter: none
 markdown: kramdown

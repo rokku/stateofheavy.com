@@ -1,18 +1,12 @@
 ---
 layout: post
 title:  "The State of Heavy"
-date:   2022-11-28 05:40:00 +0000
+author: mark
 categories: [meta]
 image: "assets/images/danny-howe-crowdshot.jpg"
-  thumbnail: "assets/images/danny-howe-crowd-th.jpg"
-  caption: "Photo by [Danny Howe](https://unsplash.com/@dannyhowe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/concert-crowd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-tags:
-  - meta-talk
-  - music
-  - blogging
-last_modified_at: 2022-11-28T05:16:49-05:00
-excerpt: "One of the joys of deciding that you're going to start a music blog again is breaking out of your Spotify Repeat playlist, with the same however-many songs which are just the same ones you've been listening to for the last 12 months, and deciding: right, *now* is the time I'm going to listen to some **new shit**."
+tags: [meta-talk, music, blogging]
 featured: true
+hidden: false
 ---
 
 One of the joys of deciding that you're going to start a music blog again is breaking out of your Spotify Repeat playlist, with the same however-many songs which are just the same ones you've been listening to for the last 12 months, and deciding: right, *now* is the time I'm going to listen to some **new shit**.

@@ -183,33 +183,36 @@ ga('send', 'pageview');
 <script>
     document.getElementsByClassName('dark-mode-button')[0].onclick = function() {
         darkmode()
-    }function darkmode() {
-  let enabled = localStorage.getItem('dark-mode')
-
-  if (enabled === null) {
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        enable();
     }
-  } else if (enabled === 'true') {
-    enable()
-  }
 
-  if (localStorage.getItem('dark-mode') === 'false') {
-      enable();
-  } else {
-      disable();
-  }
-}
-function enable()  {
-  DarkReader.setFetchMethod(window.fetch)
-  DarkReader.enable();
-  localStorage.setItem('dark-mode', 'true');
-}
+    function darkmode() {
+        let enabled = localStorage.getItem('dark-mode')
 
-function disable() {
-  DarkReader.disable();
-  localStorage.setItem('dark-mode', 'false');
-}
+        if (enabled === null) {
+            if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                enable();
+            }
+        } else if (enabled === 'true') {
+            enable()
+        }
+
+        if (localStorage.getItem('dark-mode') === 'false') {
+            enable();
+        } else {
+                disable();
+            }
+    }
+
+    function enable()  {
+        DarkReader.setFetchMethod(window.fetch)
+        DarkReader.enable();
+        localStorage.setItem('dark-mode', 'true');
+    }
+
+    function disable() {
+        DarkReader.disable();
+        localStorage.setItem('dark-mode', 'false');
+    }
 
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>

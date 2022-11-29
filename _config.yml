@@ -2,8 +2,8 @@
 name: "State Of Heavy"
 title: "State Of Heavy"
 description: "Gravitas Musica"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/soh_logo.jpg'
+favicon: 'assets/images/soh_logo.jpg'
 baseurl: /jekyll-theme-memoirs
 #google_analytics: 'UA-xxxxxxxx-1'
 #disqus: 'demowebsite'
@@ -17,7 +17,7 @@ authors:
   mark:
     name: Mark
     display_name: Mark
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/mark.png'
     email: email@stateofheavy.com
     web: https://www.stateofheavy.com/
     #twitter: https://twitter.com/wowthemesnet

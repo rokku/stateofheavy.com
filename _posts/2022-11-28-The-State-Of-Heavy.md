@@ -5,7 +5,7 @@ author: mark
 categories: [meta]
 image: "assets/images/danny-howe-crowdshot.jpg"
 tags: [meta-talk, music, blogging]
-featured: true
+featured: false
 hidden: false
 ---
 

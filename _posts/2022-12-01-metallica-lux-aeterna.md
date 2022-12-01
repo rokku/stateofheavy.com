@@ -4,7 +4,7 @@ rating: 5
 title: Metallica - Lux Æterna
 author: mark
 categories:
-- review
+- Quick Reviews
 image: assets/images/metallica-luxaeterna.jpg
 tags:
 - metallica

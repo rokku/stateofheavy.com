@@ -51,7 +51,7 @@ pre {
 .site-content {
     min-height: 60vh;
     padding-top: 1.5rem;
-    margin-top: 57px;
+    margin-top: 200px;
     transition: all 0.4s;
 }
 
@@ -72,7 +72,7 @@ section.recent-posts {
 }
 
 .section-title span {
-    border-bottom: 1px solid rgba(0, 0, 0, .44);
+    border-bottom: 1px solid rgba(220, 26, 34);
     display: inline-block;
     padding-bottom: 20px;
     margin-bottom: -1px;
@@ -117,7 +117,7 @@ section.recent-posts {
 }
 
 .maxthumb {
-    max-height: 300px;
+    max-height: 180px;
     overflow: hidden;
 }
 
@@ -300,8 +300,9 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 11rem;
     margin-right: 5px;
+    margin-left: -15px;
 }
 
 .mainheading h1.sitetitle {

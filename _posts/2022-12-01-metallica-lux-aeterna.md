@@ -6,7 +6,8 @@ author: mark
 categories:
 - review
 image: assets/images/metallica-luxaeterna.jpg
-tags: []
+tags:
+- metallica
 featured: false
 hidden: false
 

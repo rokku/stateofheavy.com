@@ -10,6 +10,7 @@ baseurl:
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
+email: email@stateofheavy.com
 
 # Authors
 authors:
@@ -29,6 +30,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-figure
 
 # Archives
 jekyll-archives:
@@ -59,5 +61,13 @@ kramdown:
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
+
+# Post Author Box ("enabled" or "disabled")
+authorbox: "enabled"
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

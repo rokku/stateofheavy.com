@@ -1,6 +1,5 @@
 ---
 layout: post
-rating: 0
 title: The State of Heavy
 author: mark
 categories:

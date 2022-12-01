@@ -5,7 +5,7 @@ title: Metallica - Lux Æterna
 author: mark
 categories:
 - review
-image: "/assets/images/metallica-luxaeterna.jpg"
+image: assets/images/metallica-luxaeterna.jpg
 tags: []
 featured: false
 hidden: false

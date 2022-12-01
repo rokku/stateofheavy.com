@@ -40,3 +40,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- _posts/metallica-lux-aeterna.md

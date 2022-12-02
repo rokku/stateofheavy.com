@@ -18,6 +18,16 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - review
+    - quick-review
+    - editorial
+    - news
+    - opinion
 - type: file
   name: image
   label: image

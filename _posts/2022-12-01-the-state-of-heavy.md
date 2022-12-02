@@ -3,7 +3,7 @@ layout: post
 title: The State of Heavy
 author: mark
 categories:
-- Editorial
+- editorial
 image: assets/images/danny-howe-crowdshot.jpg
 tags:
 - editorial

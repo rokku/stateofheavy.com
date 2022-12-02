@@ -1,7 +1,7 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
@@ -121,6 +121,22 @@ section.recent-posts {
     overflow: hidden;
 }
 
+.maxthumb_quick {
+    max-height: 110px !important;
+    max-width: 110px !important;
+    overflow: hidden;
+}
+
+.listquick .card {
+    flex-direction: row !important;
+}
+
+.quickreview-card {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 0 1.25rem !important;
+}
+
 .listfeaturedtag .card,
 .card-footer {
     border: 0;
@@ -147,10 +163,28 @@ section.recent-posts {
     line-height: 1.25;
 }
 
+.listquick h2.card-title {
+    font-size: 1rem;
+    margin-bottom: 0;
+    line-height: 1.25;
+}
+
+.listquick .mb-2, .listquick .mt-2 {
+    margin-left: -5px;
+    margin-bottom: 0 !important;
+}
+
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
     color: rgba(0, 0, 0, .44);
     font-size: 0.95rem;
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+.listquick h4.card-text {
+    color: rgba(0, 0, 0, .44);
+    font-size: 0.75rem;
     line-height: 1.6;
     font-weight: 400;
 }
@@ -775,7 +809,6 @@ iframe {
         padding: 0;
         height: 350px;
         border-radius: 0;
-        background-image: url(../images/jumbotron.jpg);
         background-size: cover;
     }
 
@@ -793,7 +826,6 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/jumbotron.jpg);
     background-size: cover;
 }
 

@@ -28,6 +28,29 @@ title: Home
 
 {% endif %}
 
+<!-- Quick Reviews
+================================================== -->
+<section class="quick-reviews">
+
+    <div class="section-title">
+
+        <h2><span>Quick Reviews</span></h2>
+
+    </div>
+
+    <div class="row listquick">
+
+        {% for post in paginator.posts %}
+            {% if post.rating && post.rating != "0" %}
+                {% include quickreview.html %}
+            {% endif %}
+        {% endfor %}
+
+    </div>
+
+</section>
+
+
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
@@ -41,9 +64,11 @@ title: Home
     <div class="row listrecent">
 
         {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
+            {% if post.featured != true %}
+                {% unless post.rating %}
+                    {% include postbox.html %}
+                {% endunless %}
+            {% endif %}
         {% endfor %}
 
     </div>

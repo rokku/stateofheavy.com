@@ -65,9 +65,7 @@ title: Home
 
         {% for post in paginator.posts %}
             {% if post.featured != true %}
-                {% //unless post.rating %}
                     {% include postbox.html %}
-                {% //endunless %}
             {% endif %}
         {% endfor %}
 

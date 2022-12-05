@@ -29,7 +29,7 @@ title: Home
 {% endif %}
 
 <!-- Quick Reviews
-================================================== -->
+================================================== 
 <section class="quick-reviews">
 
     <div class="section-title">
@@ -48,7 +48,7 @@ title: Home
 
     </div>
 
-</section>
+</section>-->
 
 
 <!-- Posts Index
@@ -65,9 +65,9 @@ title: Home
 
         {% for post in paginator.posts %}
             {% if post.featured != true %}
-                {% unless post.rating %}
+                {% //unless post.rating %}
                     {% include postbox.html %}
-                {% endunless %}
+                {% //endunless %}
             {% endif %}
         {% endfor %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 rating: 4
-title: Mercliess Law - The Holy Company
+title: Merciless Law - The Holy Company
 author: mark
 categories:
 - quick-reviews

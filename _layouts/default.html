@@ -17,7 +17,10 @@
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
+	
+{% if jekyll.environment == 'production' and site.google_analytics %}
+   {% include analytics.html %}
+{% endif %}
 </head>
 
 <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.44/darkreader.js"></script>

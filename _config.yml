@@ -22,7 +22,14 @@ authors:
     web: https://www.stateofheavy.com
     #twitter: https://twitter.com/wowthemesnet
     description: "Editor in Chief of StateOfHeavy.com - fat bastard."
-
+  chris:
+    name: Chris
+    display_name: Chris
+    gravatar: f8677d00f7921e9f9d99fdd4887e6122
+    email: chris@stateofheavy.com
+    web: https://www.stateofheavy.com
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Contributing Editor to StateOfHeavy.com - cool bastard."
 # Plugins
 plugins:
   - jekyll-paginate

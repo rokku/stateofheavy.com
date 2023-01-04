@@ -2,7 +2,7 @@
 layout: post
 rating: 4.5
 title: Fall Of The Idols - Contradictory Notes
-author: Chris
+author: chris
 categories:
 - quick-reviews
 image: assets/images/foti-1.jpg

@@ -1,8 +1,8 @@
 ---
 layout: post
 rating: 4
-title: Dark Throne - Astral Fortress
-author: Chris Barnes
+title: Darkthrone - Astral Fortress
+author: Chris
 categories:
 - quick-reviews
 image: assets/images/darkthrone-af_800x800.jpg

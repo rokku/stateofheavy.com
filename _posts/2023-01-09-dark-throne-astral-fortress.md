@@ -2,7 +2,7 @@
 layout: post
 rating: 4
 title: Darkthrone - Astral Fortress
-author: Chris
+author: chris
 categories:
 - quick-reviews
 image: assets/images/darkthrone-af_800x800.jpg

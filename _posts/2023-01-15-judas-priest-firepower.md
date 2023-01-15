@@ -4,6 +4,7 @@ rating: 4.5
 title: Judas Priest - Firepower
 author: Chris
 categories:
+- review
 - quick-reviews
 image: assets/images/5aa02075882d5-image.jpg
 tags:

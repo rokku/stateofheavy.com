@@ -7,6 +7,7 @@ categories:
 - quick-reviews
 image: assets/images/5aa02075882d5-image.jpg
 tags:
+- Ian Hill
 - Glenn Tipton
 - Rob Halford
 - Andy Sneap

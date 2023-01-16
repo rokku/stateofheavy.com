@@ -69,18 +69,21 @@
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
                 </li>
 
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
+		    
 
-                <li>
-                    <a class="dark-mode-button" >
-                        <i id="icon-dark" class="fa fa-moon"></i>
-                        <span id="dark-text">Sunset</span>
-                      </a>
+                <li class="nav-item">
+                <a class="nav-link" href="https://twitter.com/StateOfHeavy"><i class="fab fa-twitter"></i> Twitter</a>
+                </li>
+		    
+
+                <li class="nav-item">
+                <a class="nav-link" href="https://instagram.com/StateOfHeavy"><i class="fab fa-instagram"></i> Instagram</a>
                 </li>
                 {% include search-lunr.html %}
 

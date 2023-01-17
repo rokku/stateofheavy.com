@@ -2,7 +2,7 @@
 layout: post
 rating: 4
 title: Prong - Breaking Point (single)
-author: Chris
+author: chris
 categories:
 - quick-reviews
 - review

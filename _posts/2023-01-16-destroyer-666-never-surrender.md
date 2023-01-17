@@ -2,7 +2,7 @@
 layout: post
 rating: 4.5
 title: Deströyer 666 - Never Surrender
-author: Chris
+author: chris
 categories:
 - review
 - quick-reviews

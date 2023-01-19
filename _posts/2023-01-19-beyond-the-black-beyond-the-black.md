@@ -13,7 +13,7 @@ featured: false
 hidden: false
 
 ---
-With this, their self-titled fifth album, Beyond The Black have a solid slab of symphotic-esque metal. I say 'esque' as there's also potential for each track to get away from itself with the widdly-widdly, but the band show great restraint in keeping everything to the service of the song.
+With this, their self-titled fifth album, Beyond The Black have a solid slab of symphotic-esque metal. I say 'esque' as while there potential for each track to get away from itself with the _widdly-widdly_, the band show great restraint in keeping everything to the service of the song.
 
 Blasting off with absolutely hook-ridden opener, 'Is There Anyone Out There', Beyond The Black - a group I'd never even heard of before I began listening to this - show their mettle. The weird almost-clown-horn sound at the start, and later in the song, is... well, it's out of place, but fortunately doesn't ruin what quickly becomes a firm toe-tapper of a track.
 

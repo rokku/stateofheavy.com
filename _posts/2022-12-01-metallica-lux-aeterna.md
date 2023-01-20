@@ -1,7 +1,7 @@
 ---
 layout: post
 rating: 5
-title: Metallica - Lux Æterna
+title: Metallica - Lux Æterna (single)
 author: mark
 categories:
 - quick-reviews

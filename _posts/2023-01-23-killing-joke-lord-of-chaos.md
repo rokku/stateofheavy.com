@@ -6,7 +6,7 @@ author: Chris
 categories:
 - review
 - quick-reviews
-image: assets/images/screenshot-2023-01-23-085321.png
+image: assets/images/killingjoke.jpg
 tags:
 - Spinefarm Records
 - Jaz Coleman

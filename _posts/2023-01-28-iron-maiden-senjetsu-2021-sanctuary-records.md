@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: 3
+rating: 2.5
 title: 'Iron Maiden – Senjetsu (2021 Sanctuary Records) '
 author: Chris
 categories:

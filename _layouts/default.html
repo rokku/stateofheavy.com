@@ -17,23 +17,21 @@
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
+	
 </head>
 
 <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.44/darkreader.js"></script>
 
-{% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EHJ1HB6KSQ"></script>
 <script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', '{{site.google_analytics}}', 'auto');
-ga('send', 'pageview');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-EHJ1HB6KSQ');
 </script>
-{% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
@@ -71,18 +69,21 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
                 </li>
 
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
+		    
 
-                <li>
-                    <a class="dark-mode-button" >
-                        <i id="icon-dark" class="fa fa-moon"></i>
-                        <span id="dark-text">Sunset</span>
-                      </a>
+                <li class="nav-item">
+                <a class="nav-link" href="https://twitter.com/StateOfHeavy"><i class="fab fa-twitter"></i> Twitter</a>
+                </li>
+		    
+
+                <li class="nav-item">
+                <a class="nav-link" href="https://instagram.com/StateOfHeavy"><i class="fab fa-instagram"></i> Instagram</a>
                 </li>
                 {% include search-lunr.html %}
 

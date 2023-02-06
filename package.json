@@ -1,0 +1,24 @@
+{
+  "name": "stateofheavy",
+  "version": "1.0.0",
+  "description": "[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokku/stateofheavy.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokku/stateofheavy.com/issues"
+  },
+  "homepage": "https://github.com/rokku/stateofheavy.com#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.8",
+    "tinacms": "^1.1.5"
+  }
+}

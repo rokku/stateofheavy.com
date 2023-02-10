@@ -13,7 +13,7 @@ hidden: false
 ---
 With their debut, released 10 (TEN!) years ago - a bloody great debut - and their second album from 2017 being comparitively _meh_, I was cautious about the 'Dogs' latest.
 
-This is a band which, on paper, should have all the markings for greatness: Richie Kotzen, he of a ever-productive solo career (and a brief sojourn with Hollywood glamour models Poison), Billy Sheehan, bass maestro who I first knew from his work with Diamon Dave, and of course Mike Portnory, drummer-slut from Dream Theater who seems intent on forming a new group with anyone who breathes in his direction.
+This is a band which, on paper, should have all the markings for greatness: Richie Kotzen, he of a ever-productive solo career (and a brief sojourn with Hollywood glamour models Poison), Billy Sheehan, bass maestro who I first knew from his work with Diamon Dave, and of course Mike Portnoy, drummer-slut from Dream Theater who seems intent on forming a new group with anyone who breathes in his direction.
 
 Their debut was full to the brim of melodic rockers with parasitic-like hooks, and it was one of, if not THE, favourite album of mine from 2013.
 

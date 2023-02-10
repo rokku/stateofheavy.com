@@ -11,7 +11,7 @@ featured: false
 hidden: false
 
 ---
-With their debut, released 10 (TEN!) years ago - a bloody great debut - and their second album from 2017 being comparitively *meh*, I was cautious about the 'Dogs' latest. 
+With their debut, released 10 (TEN!) years ago - a bloody great debut - and their second album from 2017 being comparitively _meh_, I was cautious about the 'Dogs' latest.
 
 This is a band which, on paper, should have all the markings for greatness: Richie Kotzen, he of a ever-productive solo career (and a brief sojourn with Hollywood glamour models Poison), Billy Sheehan, bass maestro who I first knew from his work with Diamon Dave, and of course Mike Portnory, drummer-slut from Dream Theater who seems intent on forming a new group with anyone who breathes in his direction.
 
@@ -23,8 +23,14 @@ Opener \`Xanadu\` is typical of their previous deep tracks, while \`Mad World\` 
 
 \`Rise\` has some lovely Sheehan bass lines underpinning it throughout, and \`Stars\` is a vehicle for fusion-esque widdling (?) that I could've done without, \`The Vengeance\` a straight forward (for this band, at least) rocker, \`Gaslight\` kicks off with some proper proggy wankery (hurrah), while \`Lorelei\` takes it all down a notch for some nice bluesy feels from everyone.
 
-Kotzen's vocals are, as always, on point, and all three of the blokes shown they're no slouches when it comes to composition and performance. 
+Kotzen's vocals are, as always, on point, and all three of the blokes shown they're no slouches when it comes to composition and performance.
 
-Really bloody pleased with what's an almost perfect album. 
+Really bloody pleased with what's an almost perfect album.
 
 Listen to album close \`The Red Wine\` for a good example of the band, with their influences - blues, funk, rock - all coming in bleeding together. Go on.
+
+Find The Winery Dogs online:
+
+* [TheWineryDogs.com](http://www.thewinerydogs.com/)
+* [Twitter](https://twitter.com/thewinerydogs)
+* [Instagram](https://www.instagram.com/TheWineryDogs/)

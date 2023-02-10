@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: 0
+rating: 4.5
 title: The Winery Dogs - III
 author: mark
 categories:

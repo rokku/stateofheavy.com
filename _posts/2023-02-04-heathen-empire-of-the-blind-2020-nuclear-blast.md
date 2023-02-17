@@ -1,7 +1,7 @@
 ---
 layout: post
 rating: 5
-title: Heathen - Empire of the Blind (2020, Nuclear Blast)
+title: Heathen - Empire of the Blind
 author: Chris
 categories:
 - review

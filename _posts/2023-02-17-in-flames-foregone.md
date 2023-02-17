@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: 0
+rating: 4
 title: In Flames - Foregone
 author: mark
 categories:

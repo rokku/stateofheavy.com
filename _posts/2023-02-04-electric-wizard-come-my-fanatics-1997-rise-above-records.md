@@ -1,7 +1,7 @@
 ---
 layout: post
 rating: 5
-title: Electric Wizard - Come My Fanatics... (1997, Rise Above Records)
+title: Electric Wizard - Come My Fanatics...
 author: Chris
 categories:
 - review

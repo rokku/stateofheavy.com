@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: 5
+rating: 3.5
 title: Electric Wizard - Come My Fanatics...
 author: Chris
 categories:

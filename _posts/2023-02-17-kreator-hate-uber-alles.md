@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: 3.5
+rating: 3
 title: Kreator - Hate Über Alles
 author: Chris
 categories:

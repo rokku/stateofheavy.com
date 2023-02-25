@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: 0
+rating: 5
 title: Nothing Sacred EP "Leviathan"
 author: Chris
 categories:

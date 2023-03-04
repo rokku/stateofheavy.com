@@ -1,7 +1,7 @@
 ---
 layout: post
 rating: 4
-title: Stöner EP Boogie to Baja
+title: STÖNER EP Boogie to Baja
 author: Chris
 categories:
 - review

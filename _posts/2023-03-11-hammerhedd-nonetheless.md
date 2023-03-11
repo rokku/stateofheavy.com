@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: 
+rating: 5
 title: Hammerhedd - Nonetheless
 author: Chris
 categories:
